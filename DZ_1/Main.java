@@ -1,4 +1,4 @@
-package DZ_1;
+ыpackage DZ_1;
 
 public class Main {
 
